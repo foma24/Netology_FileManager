@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Netology_FileManager
-//
-//  Created by Denis Fomichev on 11/28/22.
-//
-
 import UIKit
 
 @main
